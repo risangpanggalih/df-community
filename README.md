@@ -1,14 +1,25 @@
 # DF Community Website
 
-A modern landing page for the DF Community - an AI enthusiast community.
+A brutalist design landing page for the DF Community - an AI enthusiast community. The website features a stark, minimalist design following internet brutalism principles, with dark/light mode support.
+
+![DF Community Website Screenshot](screenshot.png)
 
 ## Features
 
-- Responsive design
-- Modern UI with smooth animations
-- Sections for About, Features, and Community joining
-- Social media integration
-- Mobile-friendly layout
+- Brutalist design aesthetic
+- Dark/Light mode toggle
+- Responsive layout
+- Monospaced typography
+- High contrast UI elements
+- Raw, unfiltered visual style
+
+## Technical Stack
+
+- Node.js
+- Express.js
+- Vanilla JavaScript
+- CSS3 with CSS Variables
+- Font Awesome icons
 
 ## Prerequisites
 
@@ -17,7 +28,12 @@ A modern landing page for the DF Community - an AI enthusiast community.
 
 ## Installation
 
-1. Clone this repository
+1. Clone this repository:
+```bash
+git clone https://github.com/risangpanggalih/df-community.git
+cd df-community
+```
+
 2. Install dependencies:
 ```bash
 npm install
@@ -42,4 +58,19 @@ The website will be available at `http://localhost:3000`
 - `app.js` - Express server configuration
 - `public/` - Static files
   - `index.html` - Main landing page
-  - `css/style.css` - Stylesheet
+  - `css/style.css` - Brutalist styling
+  - `js/theme.js` - Dark/Light mode functionality
+
+## Design Philosophy
+
+The website embraces internet brutalism with:
+- Raw, functional aesthetics
+- Monospaced typography
+- Bold, minimalist design elements
+- High contrast colors
+- Exposed structural elements
+- No decorative features
+
+## License
+
+ 2025 DF_COMMUNITY // ALL_RIGHTS_RESERVED
