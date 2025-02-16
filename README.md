@@ -2,7 +2,7 @@
 
 A brutalist design landing page for the DF Community - an AI enthusiast community. The website features a stark, minimalist design following internet brutalism principles, with dark/light mode support.
 
-![DF Community Website Screenshot](screenshot.png)
+![DF Community Website Screenshot](screenshot.jpeg)
 
 ## Features
 
